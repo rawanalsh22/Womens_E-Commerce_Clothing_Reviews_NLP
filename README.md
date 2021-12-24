@@ -1,12 +1,16 @@
-# Who are the important customers? NLP-project
+# Who are the important customers? 
+In our Project we work with NLP and Clustering to find some information about reviews customers To take advantage of e-commerce.
 
 ## About Company
-A company interested in e-commerce, especially women’s clothing trade. We want to rely on sources that confirm to us the target group of women in relation to their age and clothing choices. Therefore, we decided to rely on customer evaluation for a group of websites, and based on the results, we will discover:
-* What is The average age for which you pay the most?, What kind of women's clothing is bought the most? Positive/Negative Reviews for what type of clothes?
+A company interested in e-commerce, especially women’s clothing trade. We want to rely on sources that confirm to us the target group of women in relation to their age and clothing choices.
+Therefore, we decided to rely on customer evaluation for a group of websites, and based on the results, we will discover:
+* What is The average age which payment more?
+* What kind of women's clothing is bought the most? 
+* Positive/Negative Reviews for what type of clothes?
 
 
 ## Aim and Objectives:
-* Predict what is the best selling product
+* Predict what is the best selling Recommended product?
 
 ## Data Description
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions, the source of dataset from [kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/metadata) and which consists of
