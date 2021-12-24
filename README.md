@@ -5,13 +5,13 @@ In this project, we'll be using NLP clustering to find out some good information
 ## About the company
 Unknown company who is interested in e-commerce, especially women’s clothing trade needs help to get the best information about women's clothing sales. We want to rely on sources that confirm to us the target group of women in relation to their age and clothing choices. Therefore, we decided to rely on customer evaluation for a group of websites, and based on the results, we will discover:
 
-* what is the best selling clothing? 
+* What is the best selling clothing? 
 * What is the most type of clothes that has more positive reviews?
 * At which age womens buy clothes most? 
 
 
 ## Aim and Objectives:
-* predicting the best recommended product based on customers reviews. 
+* Predicting the best recommended product based on customers reviews. 
 
 ## Data Description
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions, the source of dataset from [kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/metadata) and which consists of
