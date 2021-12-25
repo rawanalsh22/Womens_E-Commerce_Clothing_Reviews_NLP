@@ -1,5 +1,5 @@
 # Women's E-Commerce Clothing Reviews
-
+![Picture](https://user-images.githubusercontent.com/93244403/147391538-bd5bdde2-90d3-453d-b137-91ff31c73a0c.png)
 In this project, we'll be using NLP clustering to find out some good information about cusomers reviews to take advantage of e-commerce.
 
 ## About the company
